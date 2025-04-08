@@ -14,9 +14,3 @@ Tech Stack
 |----------|---------|----------|  
 | HTML5    | PHP     | MySQL    |  
 | CSS3     | Sessions| CRUD ops |  
-
-Setup  
-
-1. Install XAMPP/WAMP → Start Apache + MySQL.  
-2. Import `database.sql` via phpMyAdmin.  
-3. Configure `includes/config.php` with DB credentials.  
